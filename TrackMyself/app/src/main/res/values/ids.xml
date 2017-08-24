@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_start" type="id">button_start</item>
+    <item name="button_stop" type="id">button_stop</item>
+</resources>
